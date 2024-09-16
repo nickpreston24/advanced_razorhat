@@ -3,5 +3,5 @@ builder = "dockerfile"
 dockerfilePath = "./Dockerfile"
 
 [deploy]
-startCommand = "dotnet advanced_razorhater.dll"
+startCommand = "dotnet advanced_razorhat.dll"
 restartPolicyType = "never"
